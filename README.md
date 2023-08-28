@@ -11,10 +11,8 @@ This Java program simulates the classic Snakes and Ladders game. It uses a 2D ar
 
 ## How to Run
 
-1. Ensure Java is installed.
-2. Clone/download the repository.
-3. Compile: `javac SnakesAndLadders.java`
-4. Run: `java SnakesAndLadders`
+1. Compile the `SnakesAndLadders.java` file.
+2. Run the compiled Java program.
 
 ## Key Methods
 
