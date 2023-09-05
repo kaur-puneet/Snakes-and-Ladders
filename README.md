@@ -1,6 +1,8 @@
 # Snakes and Ladders Java Game
 
-This Java program simulates the classic Snakes and Ladders game. It uses a 2D array for the game board, manages player movements, and handles snakes and ladders interactions.
+#### Author: Puneet Kaur
+#### Date: March 2021
+#### Overview: This Java program simulates the classic Snakes and Ladders game. It uses a 2D array for the game board, manages player movements, and handles snakes and ladders interactions.
 
 ## Highlights
 
